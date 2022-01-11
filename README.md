@@ -24,25 +24,16 @@ EXAMPLE OUTPUT:
    INCLUDE:  Item1=Yes   Item2=No   Item3=Yes   Item4=No   Maxprofit: 90  //Optimal Solution (bestset and maxprofit).
 
 
+
 FILES INCLUDED:
 BofaniMineTruckDataAustralia.txt
-
 BofaniMineTruckDataBotswana.txt
-
 BofaniMineTruckDataBrazil.txt
-
 BofaniMineTruckDataCanada.txt
-
 BofaniMineTruckDataCongo.txt
-
 BofaniMineTruckDataRussia.txt
-
 BofaniMiningTruckApp.java  //Application class for Mining Truck Business Problem.
-
 JoeCS324ListADT.java  //Reads .txt file to create objects of type "JoeItem." Then calls the 0-1 Knapsack algorithm.
-
 JoeItem.java  //Creates objects of type "JoeItem" (e.g. any general "item" that can be described solely by a price and weight).
-
 JoeKnapsackObject.java  //0-1 Knapsack Backtracking Algorithm w/ additional support methods.
-
 README.md  //README file with description of the programs and how to run the application.
