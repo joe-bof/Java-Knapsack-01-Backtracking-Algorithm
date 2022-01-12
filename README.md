@@ -34,7 +34,7 @@ EXAMPLE OUTPUT:
 
 
 <br></br>
-FILES INCLUDED:  
+FILES INCLUDED (11):  
 BofaniMineTruckDataAustralia.txt  //"TruckData".txt files are data files.  
 BofaniMineTruckDataBotswana.txt  
 BofaniMineTruckDataBrazil.txt  
